@@ -4,6 +4,5 @@
 int main()
 {
     printf("Chandana\n");
+    return 0;
 }
-return0;
-
